@@ -1,0 +1,7 @@
+Paste & Zip beta privacy notice
+
+GitHub hosts this site and serves the installer. GitHub may process technical information such as IP addresses and browser details when you visit the site or download the installer. See GitHub’s General Privacy Statement: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+
+Aurortec has added no analytics or advertising trackers to this page. Paste & Zip processes collections on your Windows device. Starting with version 1.0.5, Paste & Zip contacts GitHub once when it opens and whenever you choose Check for updates in Settings. The request identifies the app version. GitHub receives the network information needed to serve the request. The update check does not send your collections, files, or notes. Microsoft’s bundled Windows runtime components may use Windows diagnostic services. See the Microsoft Privacy Statement: https://privacy.microsoft.com/en-us/privacystatement
+
+Aurortec’s official contact is WhatsApp at 3181115678. If you contact Aurortec for support, Aurortec uses the information you provide to respond to your request. WhatsApp processes information under its own privacy policy.

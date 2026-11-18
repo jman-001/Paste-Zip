@@ -1,0 +1,17 @@
+Paste & Zip beta license
+
+Aurortec offers this beta version of Paste & Zip free of charge. You may install and use the beta for personal or work purposes. You may share the official download link. This permission applies to your use of the application. Redistribution or sale of the installer requires separate permission from the rights holder, subject to your rights under applicable law.
+
+This is beta software. Features and support may change. The software is provided as is, to the extent permitted by applicable law. Nothing in these terms limits rights or remedies that cannot legally be waived.
+
+Aurortec is the rights holder. For license questions and official communications, contact Aurortec on WhatsApp at 3181115678.
+
+Bundled Microsoft components
+
+By accepting this agreement, you also agree to the Microsoft .NET Library License and the Windows SDK License as they apply to their respective components included with Paste & Zip. Use these components only as part of Paste & Zip. The Microsoft license terms and the included third-party notices govern those components and preserve any rights those licenses grant.
+
+Microsoft .NET Library License
+https://dotnet.microsoft.com/en-us/dotnet_library_license.htm
+
+Windows SDK License
+https://learn.microsoft.com/en-us/legal/windows-sdk/license
